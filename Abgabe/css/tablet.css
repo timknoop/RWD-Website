@@ -1,0 +1,527 @@
+@media only screen and (min-width: 835px) and (max-width: 1367px){
+ 
+/* Disable hover*/
+
+.btn-primary:hover{
+  background-color: #313639;
+  color: white;
+}
+
+.btn-secondary:hover{
+  background-color: #F2F2F2;
+  color: black;
+}
+
+.list-link:hover{
+  color: #8a8a8a;
+  text-decoration: none;
+}
+
+.btnradio:hover{
+  background-color: #F2F2F2;
+  color: black;
+}
+
+.minus:hover, .plus:hover{
+  background-color: #F2F2F2;
+}
+
+svg circle:hover {
+  fill: url(#image);
+}
+
+h1 { 
+  font-family: "Optima";
+  font-size: 4vw;
+}
+
+
+h3 { 
+  font-size: 1.8vw;
+  margin-top: 10%;
+}
+
+h4 { 
+  font-family: "Optima";
+  font-size: 4vw;
+}
+  
+.jumbotron{
+    width: auto;
+    height: 90vh;
+    background: url(../images/landscape/header_rendering_new.jpg);
+    background-size: 120%;
+    background-position: center;
+}  
+    
+.btn-toolbar{
+    display: block;
+    text-align: right;
+    margin-top: 45%;
+  }
+
+.btn-primary{
+    width: 20vw;
+    height: 6vh;
+  }
+  
+.btn-secondary{
+    width: 20vw;
+    height: 6vh;
+    line-height: 4.5vh;
+ }
+
+.config{
+  width: 45%;
+  height: 6vh;
+}
+
+.btn-angebot{
+  width: 100%;
+  height: 6vh;
+  font-size: 2vh;
+}
+
+nav li{
+  font-size: 1.5vw;
+}
+
+.header-row{
+  font-size: 1.2vw;
+}
+
+.detail-row{
+  margin-top: 1%;
+  font-size: 1.3vw;
+}
+
+.side-text{
+  font-size: 1.8vw;
+}
+
+section{
+  margin-bottom: 30%;
+}
+
+.testimonialseq{
+  margin-top: 20%;
+}
+
+.test-image p{
+  margin-left: -5%;
+}
+
+.gallery-header{
+  margin-top: 25%;
+  margin-bottom: -6%;
+}
+
+.specifics{
+  margin-top: 20%;
+}
+
+.test-image{
+  margin-bottom: 15%;
+}
+
+.leasing{
+  margin-top: 20%;
+}
+
+.graphik-bold{
+  font-family: "GraphikBold";
+  font-size: 1.8vw;
+}
+
+.leasing-row span{
+  font-family: "Graphik";
+  font-size: 1.8vw;
+}
+
+  
+.btnradio{
+  width: 100%;
+  height: 7vh;
+  line-height: 6vh;
+  font-size: 2vh;
+  font-family: "Graphik";
+  margin-top: 1%;
+}
+
+.minus, .plus{
+  width:15%;
+  height:7vh;
+  background-color: #F2F2F2;
+  border: none;
+  padding: 1.5vh;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.number input{
+  width: 68%;
+  height:7vh;
+  text-align: center;
+  font-family: "Graphik";
+  font-size: 2vh;
+  border:1px solid rgb(0, 0, 0);
+  border-radius: 0px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.calc-rate p{
+  margin-top: 10%;
+  font-size: 1.8vw;
+}
+
+.calc-rate input{
+  font-size: 3vw;
+}
+
+.btn-angebot{
+  margin-top: 3%;
+  width: 100%;
+  height: 6vh;
+}
+
+footer {
+  font-size: 1vw;
+}
+
+}
+
+@media only screen and (min-width: 481px) and (max-width: 834px){
+
+.btn-primary:hover{
+  background-color: #313639;
+  color: white;
+}
+
+.btn-secondary:hover{
+  background-color: #F2F2F2;
+  color: black;
+}
+
+.list-link:hover{
+  color: #8a8a8a;
+  text-decoration: none;
+}
+
+.btnradio:hover{
+  background-color: #F2F2F2;
+  color: black;
+}
+
+.minus:hover, .plus:hover{
+  background-color: #F2F2F2;
+}
+
+svg circle:hover {
+  fill: url(#image);
+}
+
+html, body{
+overflow-x: hidden !important;
+}
+
+.content{
+    width: 90%;
+    padding-right: padding-x;
+    padding-left: padding-x;
+    margin-right: auto;
+    margin-left: auto;
+    }
+
+.jumbotron{
+    width: auto;
+    height: 90vh;
+    background: url(../images/portrait/banner_render.jpg);
+    background-size: 110%;
+    background-position: center;
+}  
+
+h1 { 
+  font-family: "Optima";
+  font-size: 10vw;
+}
+
+h4 { 
+  font-family: "Optima";
+  font-size: 10vw;
+}
+
+.graphik-bold{
+  font-family: "GraphikBold";
+  font-size: 1.1vw;
+}
+
+h2 { 
+  font-family: "Graphik";
+  font-size: 4vw;
+}
+
+.subhead{
+    color: white;
+    margin-top: 6%;
+    margin-bottom: 8%;
+}
+  
+.head{
+    color: white;
+    font-size: 10vw;
+}
+
+.circ{
+    position: fixed;
+    right: 2%;
+    top: 87%;
+}
+
+.btn-toolbar{
+    display: block;
+    text-align: right;
+    margin-top: 45%;
+  }
+  
+  .btn-primary{
+    background-color: #313639;
+    border-radius: 30px;
+    border: none;
+    width: 100%;
+    height: 7vh;
+    transition: 0.3s;
+    font-size: 2.5vh;
+    margin-top: 5%;
+  }
+  
+  .btn-secondary{
+    background-color: #F2F2F2;
+    border-radius: 30px;
+    color: black;
+    border: none;
+    width: 100%;
+    height: 7vh;
+    line-height: 5vh;
+    transition: 0.3s;
+    font-size: 2.5vh;
+    margin-top: 5%;
+  }
+
+.btn-angebot{
+  height: 7vh;
+}
+  
+.intro-text{
+  font-family: "Graphik";
+  font-size: 3vw;
+  box-sizing: border-box;
+  width: 40%;
+  float: right;
+  margin-top: 3%;
+  margin-bottom: 15%;
+  width: 80%;
+}
+
+nav{
+  margin-top: 5%;
+  margin-bottom: 1%;
+}
+
+nav li{
+  display:inline-block;
+  list-style:none;
+  padding-right: 3%;
+  font-family: "Graphik";
+  font-size: 3vw;
+}
+
+.list-link{
+  color: #8A8A8A;
+  text-decoration: none;
+}
+
+.header-row{
+  margin-bottom: -10%;
+  font-size: 2.5vw;
+}
+
+.detail-row{
+  margin-bottom: 2%;
+  font-size: 3vw;
+}
+
+.detail-row .col-lg{
+  padding-bottom: 5%;
+}
+
+.config{
+  width: 100%;
+  height: 7vh;
+}
+
+section{
+  margin-bottom: 30%;
+}
+
+.specifics{
+  margin-top: 30%;
+  margin-bottom: 30%;
+}
+
+.gallery-header{
+  margin-bottom: 5%;
+}
+
+#pages{
+  margin-bottom: 20%;
+}
+
+.colorsplide{
+  display: none;
+}
+
+.comparisonSection{
+  display: block;
+}
+
+.side-text{
+  font-family: "Graphik";
+  margin-top: 5%;
+  font-size: 4vw;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+#mobile-header{
+  display: block;
+  margin-top: 10%;
+  margin-bottom: -5%;
+}
+
+#landscape-header{
+  display: none;
+}
+
+.slide1_1{
+  content: url(../images/portrait/exterieur/render_1.jpg);
+}
+
+.slide1_2{
+  content: url(../images/portrait/exterieur/render_2.jpg);
+}
+
+.slide1_3{
+  content: url(../images/portrait/exterieur/render_3.jpg);
+}
+
+.slide2_1{
+  content: url(../images/portrait/interieur/render_1.jpg);
+}
+
+.slide2_2{
+  content: url(../images/portrait/interieur/render_2.jpg);
+}
+
+.slide2_3{
+  content: url(../images/portrait/interieur/render_3.jpg);
+}
+
+.testimonialseq{
+  font-family: "Optima";
+  text-align: center;
+  font-size: 8vw;
+  margin-top: 40%;
+}
+
+.test-image p{
+  margin-top: 3%;
+  font-family: "Graphik";
+  font-size: 3vw;
+}
+
+.test-image img{
+  margin-top: 0%;
+  height: 5vh;
+  width: auto;
+}
+
+.leasing{
+  font-size: 10vw;
+  margin-top: 10%;
+  margin-bottom: 5%;
+}
+
+.graphik-bold{
+  font-family: "GraphikBold";
+  font-size: 5vw;
+}
+
+.leasing-r{
+  margin-top: 10%;
+}
+
+.leasing-row span{
+  font-family: "Graphik";
+  font-size: 4vw;
+}
+
+h3 { 
+  font-size: 4vw;
+  margin-top: 15%;
+}
+
+.btnradio{
+  width: 100%;
+  height: 9vh;
+  line-height: 7vh;
+  font-size: 2vh;
+  font-family: "Graphik";
+  margin-top: 1%;
+}
+
+.minus, .plus{
+  width:15%;
+  height:8vh;
+  background-color: #F2F2F2;
+  border: none;
+  padding: 1.5vh;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.number input{
+  width: 67%;
+  height:8vh;
+  text-align: center;
+  font-family: "Graphik";
+  font-size: 2vh;
+  border:1px solid rgb(0, 0, 0);
+  border-radius: 0px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.calc-rate input{
+  text-align: center;
+  font-family: "GraphikBold";
+  font-size: 6vw;
+  border: none;
+  text-align: left;
+  margin-top: 3%;
+}
+
+.calc-rate p{
+  margin-top: 10%;
+  font-size: 4vw;
+}
+
+footer {
+  margin-top: 15%;
+  font-family: "Graphik";
+  font-size: 2vw;
+}  
+
+}
